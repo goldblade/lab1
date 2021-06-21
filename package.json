@@ -16,7 +16,9 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-    "branch": "main"
+    "branches": [
+      "main"
+    ]
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
