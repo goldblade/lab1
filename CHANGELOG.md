@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/almerindo/lab01/compare/v1.0.0...v1.0.1) (2021-06-21)
+
+
+### Bug Fixes
+
+* fixes semantic-rlease configuration ([85b1be8](https://github.com/almerindo/lab01/commit/85b1be89104d6fa1e2142ac27695922198e3d262)), closes [#1](https://github.com/almerindo/lab01/issues/1)
+
 # 1.0.0 (2021-06-21)
 
 
