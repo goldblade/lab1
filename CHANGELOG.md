@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/almerindo/lab01/compare/v1.0.1...v1.1.0) (2021-06-21)
+
+
+### Features
+
+* :art: MUITO BOM! ([a4ded92](https://github.com/almerindo/lab01/commit/a4ded927ddc5e371bd839396dedd4ec4b29fbbfa))
+
 ## [1.0.1](https://github.com/almerindo/lab01/compare/v1.0.0...v1.0.1) (2021-06-21)
 
 
